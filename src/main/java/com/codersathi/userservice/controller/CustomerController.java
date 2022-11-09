@@ -1,4 +1,4 @@
-package com.codersathi.userservice;
+package com.codersathi.userservice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
